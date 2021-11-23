@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1637670673 source:d:\iti\labs\c projects\dynamiclineeditor\bin\dynamiclineeditor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+
